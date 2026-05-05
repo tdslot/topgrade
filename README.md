@@ -132,3 +132,4 @@ See [CONTRIBUTING.md](https://github.com/topgrade-rs/topgrade/blob/main/CONTRIBU
 
 You're welcome to [join](https://discord.gg/Q8HGGWundY) our Discord server if you want
 to discuss Topgrade!
+
